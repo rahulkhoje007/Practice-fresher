@@ -18,7 +18,7 @@ public class JavaStack {
 		System.out.println("-----Array Deque----");
 
 		// ArrayDeque work in FIFO manner
-
+		System.out.println("---------------------");
 		ArrayDeque<String> Name1 = new ArrayDeque<>();
 
 		Name1.add("Vaibhav");
